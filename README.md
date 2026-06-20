@@ -1,6 +1,6 @@
 # Stock-market-
 
-# DecodeLabs IPODecisionEngine
+
 
 A compact, self-contained Python implementation of the DecodeLabs systematic trading engine framework. The IPODecisionEngine processes streaming OHLCV candle data to compute microstructure metrics, smooth trend indicators, and enforce mechanical risk circuit breakers — enabling fully-mechanical decisioning for systematic strategies.
 
