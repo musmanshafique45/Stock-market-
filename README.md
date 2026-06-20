@@ -34,9 +34,9 @@ This repository contains a minimal implementation intended as a testbed and star
 1. Clone the repository:
 
    git clone https://github.com/musmanshafique45/Stock-market-.git
-   cd Stock-market-
+   cd Stock-market-indicator
 
-2. Run the demo script (Python 3.8+ recommended):
+3. Run the demo script (Python 3.8+ recommended):
 
    python ipodecision_engine.py
 
